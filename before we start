@@ -1,2 +1,4 @@
 install composer in your computer (search in internet for more information)
 find out your composer version in command prompt (use "composer -V" command)
+composer bisa diinstal via command prompt (CMD) atau manual (download file via : https://getcomposer.org/download/)
+install di folder yang dikehendaki (saran: c:/xampp/htdocs--> atau dimanapun xampp berada, htdocs adalah folder khusus proyek web,untuk mempermudah pencarian)
