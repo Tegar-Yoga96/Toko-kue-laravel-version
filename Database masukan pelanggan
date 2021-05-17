@@ -1,0 +1,17 @@
+
+-- Database: `comenttokokue`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Struktur dari tabel `data masukan pelanggan`
+--
+
+CREATE TABLE `data masukan pelanggan` (
+  `Nama` varchar(40) NOT NULL,
+  `Email` varchar(40) NOT NULL,
+  `Komentar` varchar(400) NOT NULL,
+  `Tanggal Submit` date NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+COMMIT;
